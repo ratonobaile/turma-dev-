@@ -12,4 +12,4 @@ Programar e sobre desenvolvimento de sistemas
 - Python
 
 ## 💬 Minha frase sobre trabalho em equipe
-"Juntos somos mais fortes"
+Juntos somos mais fortes
