@@ -4,13 +4,11 @@ Bem-vindo ao repositório oficial da nossa turma!
 Este projeto reúne os perfis de todos os integrantes da equipe.
 
 ## 👥 Membros da equipe
-<<<<<<< HEAD
 - [Klain] — Reviewer
 - [Otavio] — Observador
-=======
 - [Enzo] — Admin
 - [Arthur] — Developer
->>>>>>> 179b53141f64c1ec0c5d894424293dee77896bd8
+
 
 ## 📁 Estrutura do projeto
 
