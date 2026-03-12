@@ -1,6 +1,6 @@
 # 👤 Perfil: Arthur Motta Ricci
 
-**Função no projeto:** WRITER / Colaborador
+**Função no projeto:** 🧑‍💻 WRITER / Colaborador
 **Turma:** Técnico em Desenvolvimento de Sistemas
 **Data de entrada:** 12/03/2026
 
