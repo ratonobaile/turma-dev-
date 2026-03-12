@@ -4,7 +4,8 @@ Bem-vindo ao repositório oficial da nossa turma!
 Este projeto reúne os perfis de todos os integrantes da equipe.
 
 ## 👥 Membros da equipe
-<!-- Klain, Otavio, Enzo e Tutui -->
+- [Enzo] — Admin
+- [Arthur] — Developer
 
 ## 📁 Estrutura do projeto
 
