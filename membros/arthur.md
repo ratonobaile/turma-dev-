@@ -12,4 +12,4 @@ Programar, e desenvolver sistemas
 - JavaScript e Luau
 
 ## 💬 Minha frase sobre trabalho em equipe
-O klain é gay, o otavio tbm
+Todos tem que trabalhar e não ser vagabundos
